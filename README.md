@@ -1,7 +1,7 @@
 # test coverage for  [generator-angular-fullstack (v4.1.4)](https://github.com/angular-fullstack/generator-angular-fullstack)  [![npm package](https://img.shields.io/npm/v/npmtest-generator-angular-fullstack.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-generator-angular-fullstack) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-generator-angular-fullstack.svg)](https://travis-ci.org/npmtest/node-npmtest-generator-angular-fullstack)
 #### Yeoman generator for creating MEAN stack applications, using MongoDB, Express, AngularJS, and Node
 
-[![NPM](https://nodei.co/npm/generator-angular-fullstack.png?downloads=true)](https://www.npmjs.com/package/generator-angular-fullstack)
+[![NPM](https://nodei.co/npm/generator-angular-fullstack.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/generator-angular-fullstack)
 
 | git-branch : | [alpha](https://github.com/npmtest/node-npmtest-generator-angular-fullstack/tree/alpha)|
 |--:|:--|
@@ -9,11 +9,17 @@
 | test-report : | [![test-report](https://npmtest.github.io/node-npmtest-generator-angular-fullstack/build/test-report.badge.svg)](https://npmtest.github.io/node-npmtest-generator-angular-fullstack/build/test-report.html)|
 | build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-generator-angular-fullstack/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-generator-angular-fullstack/tree/gh-pages/build)|
 
-[![istanbul-coverage](https://npmtest.github.io/node-npmtest-generator-angular-fullstack/build/screenCapture.buildCustomOrg.browser.coverage.html.png)](https://npmtest.github.io/node-npmtest-generator-angular-fullstack/build/coverage.html/index.html)
+- [https://npmtest.github.io/node-npmtest-generator-angular-fullstack/build/coverage.html/index.html](https://npmtest.github.io/node-npmtest-generator-angular-fullstack/build/coverage.html/index.html)
 
-[![test-report](https://npmtest.github.io/node-npmtest-generator-angular-fullstack/build/screenCapture.buildCustomOrg.browser.%252Fhome%252Ftravis%252Fbuild%252Fnpmtest%252Fnode-npmtest-generator-angular-fullstack%252Ftmp%252Fbuild%252Ftest-report.html.png)](https://npmtest.github.io/node-npmtest-generator-angular-fullstack/build/test-report.html)
+[![istanbul-coverage](https://npmtest.github.io/node-npmtest-generator-angular-fullstack/build/screenCapture.buildCi.browser.%252Ftmp%252Fbuild%252Fcoverage.lib.html.png)](https://npmtest.github.io/node-npmtest-generator-angular-fullstack/build/coverage.html/index.html)
 
-[![apidoc](https://npmdoc.github.io/node-npmdoc-generator-angular-fullstack/build/screenCapture.buildApidoc.browser.%252Fhome%252Ftravis%252Fbuild%252Fnpmdoc%252Fnode-npmdoc-generator-angular-fullstack%252Ftmp%252Fbuild%252Fapidoc.html.png)](https://npmdoc.github.io/node-npmdoc-generator-angular-fullstack/build/apidoc.html)
+- [https://npmtest.github.io/node-npmtest-generator-angular-fullstack/build/test-report.html](https://npmtest.github.io/node-npmtest-generator-angular-fullstack/build/test-report.html)
+
+[![test-report](https://npmtest.github.io/node-npmtest-generator-angular-fullstack/build/screenCapture.buildCi.browser.%252Ftmp%252Fbuild%252Ftest-report.html.png)](https://npmtest.github.io/node-npmtest-generator-angular-fullstack/build/test-report.html)
+
+- [https://npmdoc.github.io/node-npmdoc-generator-angular-fullstack/build/apidoc.html](https://npmdoc.github.io/node-npmdoc-generator-angular-fullstack/build/apidoc.html)
+
+[![apidoc](https://npmdoc.github.io/node-npmdoc-generator-angular-fullstack/build/screenCapture.buildCi.browser.%252Ftmp%252Fbuild%252Fapidoc.html.png)](https://npmdoc.github.io/node-npmdoc-generator-angular-fullstack/build/apidoc.html)
 
 ![npmPackageListing](https://npmtest.github.io/node-npmtest-generator-angular-fullstack/build/screenCapture.npmPackageListing.svg)
 
@@ -28,7 +34,6 @@
 {
     "author": {
         "name": "Andrew Koroluk",
-        "email": "koroluka@gmail.com",
         "url": "http://andrewk.me/"
     },
     "bugs": {
@@ -41,17 +46,14 @@
         },
         {
             "name": "Cody Mize",
-            "email": "me@codymize.com",
             "url": "http://codymize.com/"
         },
         {
             "name": "Brian Ford",
-            "email": "btford@umich.edu",
             "url": "http://briantford.com/"
         },
         {
             "name": "Pascal Hartig",
-            "email": "passy@twitter.com",
             "url": "http://passy.me/"
         },
         {
@@ -60,7 +62,6 @@
         },
         {
             "name": "Sindre Sorhus",
-            "email": "sindresorhus@gmail.com",
             "url": "https://twitter.com/sindresorhus"
         }
     ],
@@ -144,17 +145,14 @@
     "license": "BSD-2-Clause",
     "maintainers": [
         {
-            "name": "daftmonk",
-            "email": "tylerhenkel@hotmail.com"
+            "name": "daftmonk"
         },
         {
-            "name": "awk34",
-            "email": "koroluka@gmail.com"
+            "name": "awk34"
         }
     ],
     "name": "generator-angular-fullstack",
     "optionalDependencies": {},
-    "readme": "ERROR: No README data found!",
     "repository": {
         "type": "git",
         "url": "git://github.com/angular-fullstack/generator-angular-fullstack.git"
