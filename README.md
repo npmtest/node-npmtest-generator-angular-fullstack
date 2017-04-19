@@ -1,6 +1,6 @@
 # npmtest-generator-angular-fullstack
 
-#### test coverage for  [generator-angular-fullstack (v4.1.4)](https://github.com/angular-fullstack/generator-angular-fullstack)  [![npm package](https://img.shields.io/npm/v/npmtest-generator-angular-fullstack.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-generator-angular-fullstack) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-generator-angular-fullstack.svg)](https://travis-ci.org/npmtest/node-npmtest-generator-angular-fullstack)
+#### basic test coverage for  [generator-angular-fullstack (v4.2.0)](https://github.com/angular-fullstack/generator-angular-fullstack)  [![npm package](https://img.shields.io/npm/v/npmtest-generator-angular-fullstack.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-generator-angular-fullstack) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-generator-angular-fullstack.svg)](https://travis-ci.org/npmtest/node-npmtest-generator-angular-fullstack)
 
 #### Yeoman generator for creating MEAN stack applications, using MongoDB, Express, AngularJS, and Node
 
@@ -123,14 +123,14 @@
     },
     "directories": {},
     "dist": {
-        "shasum": "ca2dc23f9abee9803714d34a3cb12835f5ffce8f",
-        "tarball": "https://registry.npmjs.org/generator-angular-fullstack/-/generator-angular-fullstack-4.1.4.tgz"
+        "shasum": "9e0cc7a9cfca2971a613d6cedaea7df68a7262ee",
+        "tarball": "https://registry.npmjs.org/generator-angular-fullstack/-/generator-angular-fullstack-4.2.0.tgz"
     },
     "engines": {
         "node": "^6.2.2",
         "npm": "^3.9.5"
     },
-    "gitHead": "431c4563713cfc8299166f59937a935fca5ad030",
+    "gitHead": "bc0ce9a73ac859264508839f44cca24773b5c14a",
     "homepage": "https://github.com/angular-fullstack/generator-angular-fullstack",
     "keywords": [
         "yeoman-generator",
@@ -164,7 +164,7 @@
         "prepublish": "gulp build",
         "test": "gulp updateFixtures:test && gulp installFixtures && gulp build && gulp test"
     },
-    "version": "4.1.4"
+    "version": "4.2.0"
 }
 ```
 
